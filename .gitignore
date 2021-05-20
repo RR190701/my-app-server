@@ -1,0 +1,5 @@
+#node modules 
+/node_modules
+
+
+#removing config files from here
